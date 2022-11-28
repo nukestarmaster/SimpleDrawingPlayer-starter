@@ -1,6 +1,7 @@
 package players;
 
 import model.Drawing;
+import model.Rectangle;
 import model.Shape;
 import ui.DrawingEditor;
 
